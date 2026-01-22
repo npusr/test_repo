@@ -1,5 +1,3 @@
-print("Hello2, World12!")
-print("Line2")
 import json
 from pathlib import Path
 
